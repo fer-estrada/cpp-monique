@@ -1,0 +1,21 @@
+Party List:
+Party Name          Party Size     Number of Rooms
+--------------------------------------------------
+doe                 1              1
+Doe                 1              1
+Fart                1              1
+Fat                 1              1
+Sam                 1              1
+Gay                 1              1
+Me                  1              1
+
+Passenger List:
+Name                Age  T-Shirt   Party Name
+--------------------------------------------------
+john doe            24   m         doe
+Jane Doe            67   s         Doe
+Fer Fart            99   xxs       Fart
+Monique Fat         1    xl        Fat
+Hello Sam           5    m         Sam
+Not Gay             69   l         Gay
+Help Me             14   s         Me
